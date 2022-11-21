@@ -1,6 +1,5 @@
-# PyClusterSeql 
+# PyNetxCluster 
 
 This package performs agglomerative clustering for relational network data
-
 
 
