@@ -1,0 +1,14 @@
+[project]
+name = "pyclusterseql"
+version = "0.0.1"
+authors = [
+  { name="Silvia Metelli", email="silvia.metelli1@gmail.com" },
+]
+description = "A Python package to perform (sequential) agglomerative clustering for large network data"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
