@@ -1,17 +1,18 @@
 from setuptools import setup
 
 setup(
-    name="pyclusterseql",
+    name="PyNetCluster",
     version="0.0.1",
-    packages=["net_cluster"],
+    packages=["pynetclustering"],
     #description="batch and sequential agglomerative clustering",
     #py_modules=["seql_clustering"],
     install_requires = [
         'numpy',
         'sys',
+        'os'
         'math',
         'operator',
     ],
-    package_dir={'': 'src'},
+    package_dir={'': 'pynetclustering'},
 )
 
